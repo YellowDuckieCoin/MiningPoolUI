@@ -19,10 +19,9 @@
 
 
 
-
 var WebURL = window.location.protocol + "//" + window.location.hostname + "/";
 var API =  "https://pool.yellowduckie.net/api/";
-var stratumAddress = "stratum+tcp://" + window.location.hostname + ":";
+var stratumAddress = "pplns.pool.yellowduckie.net";
 
 // // read WebURL from current browser
 // var WebURL         = window.location.protocol + "//" + window.location.hostname + "/";  // Website URL is:  https://domain.com/
